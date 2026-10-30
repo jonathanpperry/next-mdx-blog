@@ -24,7 +24,7 @@ const AboutCoverSection = () => {
         <p className="font-medium mt-4 text-base">
           This mantra drives my work as a passionate software developer: I blend
           innovative technology with timeless design to captivate digital
-          experiences. Inspired by nature and literature, I'm a perpetual
+          experiences. Inspired by nature and literature, I&apos;m a perpetual
           learning embracing challenges. With each project, I aim to leave a
           lasting impact - one pixel at a time.
         </p>

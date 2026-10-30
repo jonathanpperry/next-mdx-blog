@@ -16,7 +16,6 @@
     "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "10.4.15",
     "date-fns": "^2.30.0",
-    "eslint": "^10.7.0",
     "eslint-config-next": "^16.2.10",
     "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
@@ -37,6 +36,7 @@
   },
   "devDependencies": {
     "encoding": "^0.1.13",
+    "eslint": "^9.39.5",
     "sharp": "^0.32.6"
   },
   "allowScripts": {
